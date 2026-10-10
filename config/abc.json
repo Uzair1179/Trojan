@@ -1,8 +1,7 @@
 [
     {
-        "module": "dirlister"
-    },
-    {
-        "module": "environment"
-       }
+        "module": "file_manager",
+        "action": "list",
+        "path": "/home/badshah0007/Desktop"
+    }
 ]
