@@ -1,0 +1,1 @@
+['soso.py', 'tro.py', 'Ghost', 'stub_encryption.py', 'git_trojan2.py', 'Alihassan.py', 'mytoken.txt', 'Umair', 'stub.py', 'Umairiiii.cpp', 'test', 'serveryoyo.py', 'checksysteminfo.py', 'git_trojan.py', '.umair.sh.swp', '.kam.cpp.swp', 'Sikandar Cv Baharin.pdf', 'kam.cpp']
