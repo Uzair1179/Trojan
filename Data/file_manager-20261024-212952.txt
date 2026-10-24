@@ -1,0 +1,2 @@
+[+] Inventory for .:
+['soso.py', 'tro.py', 'Ghost', 'haza.py', 'stub_encryption.py', 'Alihassan.py', 'environmenttest.py', 'Umair', 'test.py', 'stub.py', 'Umairiiii.cpp', 'test', 'serveryoyo.py', 'checksysteminfo.py', '.umair.sh.swp', 'lolo.py', '.kam.cpp.swp', 'Sikandar Cv Baharin.pdf', 'kam.cpp']
