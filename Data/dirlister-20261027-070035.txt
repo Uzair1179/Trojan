@@ -1,0 +1,1 @@
+['deepseek.cpp', 'deepseek_cpp_20260822_9b1ee1.cpp', 'tro.py']
